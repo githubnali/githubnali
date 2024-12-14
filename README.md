@@ -1,14 +1,11 @@
 ## 👋 About Me  <br><br>Hello! I'm a **Web Developer** with **2.5 years of experience** in building mobile-first, responsive, and accessible web applications. My goal is to create **bug-free** and **performance-optimized** solutions that deliver great user experiences.
-<br><br>
-🛠️ **Languages & Frameworks**:  
-<br>  
+<br><br> 🛠️ **Languages & Frameworks**: <br>  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)<br>  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)<br>  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)<br>  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 
 <br><br>- **CMS**:  <br>  
-![AEM Franklin](https://img.shields.io/badge/-AEM%20Franklin-8A2BE2?logo=adobe&logoColor=white)  <br><br>
-- **Tools & Platforms**:  <br>  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  <br>  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  <br>  ![Edison Dashboard](https://img.shields.io/badge/-
+![AEM Franklin](https://img.shields.io/badge/-AEM%20Franklin-8A2BE2?logo=adobe&logoColor=white)  <br><br>- **Tools & Platforms**:  <br>  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  <br>  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  <br>  ![Edison Dashboard](https://img.shields.io/badge/-
 
 
 ## 🌐 Socials:
