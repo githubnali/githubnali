@@ -1,4 +1,4 @@
-## 👋 About Me  <br><br>Hello! I'm a **Web Developer** with **2.5 years of experience** in building mobile-first, responsive, and accessible web applications. My goal is to create **bug-free** and **performance-optimized** solutions that deliver great user experiences.
+## 👋 About Me  <br><br>Hello! I'm a **Web Developer** with **3.0+ years of experience** in building mobile-first, responsive, and accessible web applications. My goal is to create **bug-free** and **performance-optimized** solutions that deliver great user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraju-nali-98a037172/) 
