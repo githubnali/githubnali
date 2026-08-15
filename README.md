@@ -1,13 +1,35 @@
+<!-- ===========================
+     PREMIUM GITHUB PROFILE
+=========================== -->
+
+<p align="center">
+  <img
+    src="https://avatars.githubusercontent.com/u/108607635?v=4"
+    alt="Nagaraju Nali"
+    width="180"
+    style="border-radius:50%;"
+  />
+</p>
+
 <div align="center">
 
-# Hi 👋, I'm Nagaraju Nali
+# Hi 👋 I'm Nagaraju Nali
 
 ### Frontend Engineer • React • Angular • Node.js
 
-Building fast, scalable & accessible web applications from **Bengaluru, India 🇮🇳**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+%7C+Angular+Developer;Building+Modern+Web+Applications;Clean+UI+%E2%80%A2+Performance+%E2%80%A2+Accessibility" alt="Typing Animation"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraju-nali-98a037172/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nalin-portfolio.netlify.app/)
+<p>
+  <a href="https://www.linkedin.com/in/nagaraju-nali-98a037172/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://nalin-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -15,70 +37,148 @@ Building fast, scalable & accessible web applications from **Bengaluru, India �
 
 ## 💫 About Me
 
-Frontend Engineer with **4+ years of experience** building responsive, accessible, and high-performance web applications using **React, Angular, JavaScript, TypeScript, and Node.js**.
+<img align="right" width="180" src="./assets/profile.png"/>
 
-- 🚀 Passionate about clean UI & scalable architecture
-- 📱 Mobile-first responsive development
-- ♿ Accessibility (WCAG) focused
-- ⚡ Performance & SEO optimization
-- 🌱 Currently exploring **Angular 21, MERN & System Design**
+Frontend Engineer with **4+ years of experience** building scalable, responsive and accessible web applications.
 
----
+I love transforming complex ideas into beautiful user experiences using modern frontend technologies.
 
-## 🛠 Tech Stack
+- 🚀 4+ Years in Frontend Development
+- ⚛️ React & Angular Specialist
+- 🌐 Building Enterprise SaaS Products
+- ⚡ Performance & SEO Optimization
+- ♿ Accessibility (WCAG) Focused
+- 🌱 Currently learning **Angular 21 • MERN • System Design**
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### Styling & UI
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠 Tech Stack
 
-<p align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=githubnali&theme=transparent&hide_border=true" />
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,redux,html,css,tailwind,bootstrap&perline=9"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&perline=5"/>
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,npm&perline=6"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nagaraju-nali-98a037172/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nagaraju%20Nali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<table>
+<tr>
+<td width="33%">
+
+### 🎬 Netflix GPT
+
+AI-powered Netflix clone with movie recommendations.
+
+**React • Firebase • TMDB**
+
+</td>
+<td width="33%">
+
+### 💼 Infraon ITSM
+
+Enterprise IT Service Management SaaS platform.
+
+**Angular 21 • SSG**
+
+</td>
+<td width="33%">
+
+### 🌐 Portfolio
+
+Modern developer portfolio with animations.
+
+**React • Vite • Tailwind**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=githubnali&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubnali&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=githubnali&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubnali&theme=github-compact&hide_border=true" width="100%"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=githubnali&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+<table>
+<tr>
+<td>⚛️ React Architecture</td>
+<td>🔥 Angular 21</td>
+</tr>
+<tr>
+<td>🌐 MERN Stack</td>
+<td>📈 System Design</td>
+</tr>
+<tr>
+<td>⚡ Performance</td>
+<td>♿ Accessibility</td>
+</tr>
+</table>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below and this animation will appear automatically.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/githubnali/githubnali/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagaraju-nali-98a037172/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nagaraju_Nali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://nalin-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://nalin-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -86,6 +186,8 @@ Frontend Engineer with **4+ years of experience** building responsive, accessibl
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=githubnali&icon=5&color=6)
+### 💙 *Code • Learn • Build • Repeat*
+
+<img src="https://visitcount.itsvg.in/api?id=githubnali&icon=6&color=12"/>
 
 </div>
