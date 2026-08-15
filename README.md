@@ -65,11 +65,6 @@ Frontend Engineer with **4+ years of experience** building responsive, accessibl
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=githubnali&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=githubnali&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="700" src="https://streak-stats.demolab.com?user=githubnali&theme=transparent&hide_border=true" />
 </p>
 
