@@ -3,12 +3,20 @@
 =========================== -->
 
 <p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/108607635?v=4"
-    alt="Nagaraju Nali"
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circle">
+      <circle cx="90" cy="90" r="90"/>
+    </clipPath>
+  </defs>
+
+  <image
+    href="https://avatars.githubusercontent.com/u/108607635?v=4"
     width="180"
-    style="border-radius:50%;"
-  />
+    height="180"
+    clip-path="url(#circle)"
+    preserveAspectRatio="xMidYMid slice"/>
+</svg>
 </p>
 
 <div align="center">
