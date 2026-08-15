@@ -163,7 +163,7 @@ Modern developer portfolio with animations.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/githubnali/githubnali/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/githubnali/githubnali/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
