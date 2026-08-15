@@ -160,12 +160,10 @@ Modern developer portfolio with animations.
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action below and this animation will appear automatically.
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/githubnali/githubnali/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/githubnali/githubnali/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
